@@ -1,6 +1,6 @@
 var userName = prompt('Inserisci il tuo nome'); //Nome utente
 var userSurname = prompt('Inserisci il tuo cognome'); //Cognome
-var favColor = prompt("Qual'è il tuo colore preferito?"); //Colore preferito
+var favColor = prompt('Qual\'è il tuo colore preferito?'); //Colore preferito
 
 //scrive messaggio benvenuto con nome e cognome utente
 var userTitle = document.getElementById('title-psw');
